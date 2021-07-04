@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MarsRealeState</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="display_price_monthly_rental">$%,.of/month</string>
+    <string name="display_price">$%,.of</string>
+    <string name="display_type">for %s</string>
+    <string name="type_sale">Sale</string>
+    <string name="type_rent">Rent</string>
+
+
+</resources>
